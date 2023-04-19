@@ -8,17 +8,22 @@ comments: false
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<p>Welcome to my blog, where I write about technology, Open Source, License Compliance, Linux, and other things. I write posts in Spanish and English, but since I'm a spanish native speaker, please excuse the raw English.</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
+<p>
+I am an experienced Open Source Engineer with a proven leadership and technical expertise track record. As Principal Open Source Engineer at Amazon Web Services, I lead the license compliance team and define technical strategies for designing compliance methodologies and tools. In previous roles, I served as a technical advisor for legal teams and provided technical leadership for compliance audits. I also have experience managing development teams, overseeing architecture design, and leading cross-company projects.
+</p>
+<p>
+Throughout my career, I have been committed to providing technical guidance and mentorship to other engineers, ensuring best practices for software development and Open Source.
+</p>
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
 
-<h4>Questions or bug reports?</h4>
-
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
-
+<h4>Licenses</h4>
+<p>
+* All the software used for the Blog is under MIT license. <br/>
+* All the scripts and code developed by me is under GNU GPLv3. <br/>
+* The content is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License.
+</p>
 </div>
 
 <div class="col-md-4">
