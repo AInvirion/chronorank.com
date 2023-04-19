@@ -1,9 +1,9 @@
 title: Oscar's Blog
 logo: https://avatars3.githubusercontent.com/u/12322852?s=460&v=4
 email: alkamod at gmail dot com
-description: Minimalist is a theme powered by Jekyll. It is modified based on the Minimal theme.
+description: Free Software, GNU/Linux, Compliance, and more.
 show_downloads: false
-google_analytics: UA-108144808-1
+google_analytics: UA-50598012-1
 color-scheme: auto
 plugins:
   - jekyll-sitemap
