@@ -121,3 +121,56 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+<div class="posts">
+
+  {% for post in paginator.posts %}
+
+      <h2>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+      </h2>
+      <p>
+		<span class="glyphicon glyphicon-time"></span> {{ post.date | date_to_string }}
+		{% assign author = site.data.authors[page.author] %}
+		{% if author %}
+		 &bull; 
+		<span class="glyphicon glyphicon-user"></span> <a href="{{ author.web }}">{{ author.name }}</a>
+		{% endif %}
+	  </p>
+      <ul class="tags">
+      {% for tag in post.tags %}
+        <li><a href="/tags#{{ tag }}" class="tag">{{ tag }}</a></li>
+      {% endfor %}
+      </ul>
+      <hr>
+      <p>{{ post.excerpt }}</p>
+      <a class="btn btn-primary" href="{{ site.baseurl }}{{ post.url }}">Read More <span class="glyphicon glyphicon-chevron-right"></span></a>
+      <hr>
+
+  {% endfor %}
+
+  <!-- Pager -->
+  {% if paginator.total_pages > 1 %}
+  <ul class="pager">
+    {% if paginator.previous_page %}
+      <li class="previous">
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer</a>
+      </li>
+    {% else %}
+      <li class="previous">
+        <span>&larr; Newer</span>
+      </li>
+    {% endif %}
+
+
+    {% if paginator.next_page %}
+      <li class="next">
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older &rarr;</a>
+      </li>
+    {% else %}
+      <li class="next">
+        <span>Older &rarr;</span>
+      </li>
+    {% endif %}
+  </ul>
+  {% endif %}
+</div>
