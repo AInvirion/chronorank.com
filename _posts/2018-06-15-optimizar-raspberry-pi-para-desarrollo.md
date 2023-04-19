@@ -5,7 +5,7 @@ title:  "Optimize RPI for software development"
 author: oscar
 categories: [ development, raspberry, linux ]
 tags: [red, yellow]
-image: images/posts/freesoftwarecommunities.jpg
+image: images/posts/raspberrypi.jpg
 description: "Optimize RPI for software development."
 featured: true
 ---
