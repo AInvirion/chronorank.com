@@ -16,24 +16,16 @@ I am an experienced Open Source Engineer with a proven leadership and technical 
 <p>
 Throughout my career, I have been committed to providing technical guidance and mentorship to other engineers, ensuring best practices for software development and Open Source.
 </p>
-
-
-<h4>Licenses</h4>
-<p>
-* All the software used for the Blog is under MIT license. <br/>
-* All the scripts and code developed by me is under GNU GPLv3. <br/>
-* The content is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License.
-</p>
 </div>
 
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
-
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
-
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+<h5>Licenses</h5>
+<p>
+* All the scripts and code developed by me is under MIT or Apache-2.0. <br/>
+* The content is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License.
+</p>
 
 </div>
 </div>
