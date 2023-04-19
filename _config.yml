@@ -6,7 +6,7 @@ logo: 'https://avatars3.githubusercontent.com/u/12322852?s=460&v=4'
 favicon: 'images/favico.png'
 baseurl: /
 google_analytics: 'UA-50598012-1'
-disqus: 'demowebsite'
+disqus: 'ovalenzuela-com'
 mailchimp-list: 
 include: ["_pages"]
 permalink: /:title/
@@ -28,7 +28,7 @@ authors:
     email: alkamod@gmail.com
     web: https://www.ovalenzuela.com
     twitter: https://twitter.com/alkamodz
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    description: "I collect mechanical wristwatches and enjoy listening to jazz and techno music. As an Open Source enthusiast, I work on legal compliance issues."
 
 # Plugins
 plugins:
