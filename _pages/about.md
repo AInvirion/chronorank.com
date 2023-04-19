@@ -8,7 +8,7 @@ comments: false
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>Welcome to my blog, where I write about technology, Open Source, License Compliance, Linux, and other things. I write posts in Spanish and English, but since I'm a spanish native speaker, please excuse the raw English.</p>
+<p>Welcome to my blog, where I write about technology, Open Source, License Compliance, Linux, etc. I write posts in Spanish and English, but since I'm a native Spanish speaker, please excuse the raw English.</p>
 
 <p>
 I am an experienced Open Source Engineer with a proven leadership and technical expertise track record. As Principal Open Source Engineer at Amazon Web Services, I lead the license compliance team and define technical strategies for designing compliance methodologies and tools. In previous roles, I served as a technical advisor for legal teams and provided technical leadership for compliance audits. I also have experience managing development teams, overseeing architecture design, and leading cross-company projects.
