@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: About the author
 permalink: /about
 comments: false
 ---
