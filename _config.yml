@@ -1,6 +1,6 @@
 # Site
-name: "Oscar's Blog"
-title: "Oscar's Blog"
+name: "Oscar\'s Blog"
+title: "Oscar\'s Blog"
 description: "Free Software, GNU/Linux, License Compliance, and more."
 logo: 'https://avatars3.githubusercontent.com/u/12322852?s=460&v=4'
 favicon: 'images/favico.png'
@@ -28,7 +28,7 @@ authors:
     email: alkamod@gmail.com
     web: https://www.ovalenzuela.com
     twitter: https://twitter.com/alkamodz
-	linkedin: https://www.linkedin.com/in/alkamod/
+	linkedin: https://www.linkedin.com/in/alkamod
     description: "I collect mechanical wristwatches and enjoy listening to jazz and techno music. As an Open Source enthusiast, I work on legal compliance issues."
 
 # Plugins
