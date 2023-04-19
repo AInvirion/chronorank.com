@@ -18,8 +18,16 @@ authors:
     display_name: Sal
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
+    web: https://www.ovalenzuela.com
     twitter: https://twitter.com/wowthemesnet
+    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+  oscarvalenzuelab:
+    name: Oscar Valenzuela
+    display_name: Oscar
+    gravatar: e17523fd9dfc61bcdd837836bfc8fa21
+    email: alkamod@gmail.com
+    web: https://www.ovalenzuela.com
+    twitter: https://twitter.com/alkamodz
     description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
 
 # Plugins
