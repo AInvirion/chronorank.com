@@ -5,9 +5,9 @@ title:  "Dominios para proyectos de Software Libre"
 author: oscar
 categories: [ gnuchile, multidata ]
 tags: [red, yellow]
-image: assets/images/11.jpg
+image: images/posts/freesoftwarecommunities.jpg
 description: "Dominios para proyectos de Software Libre."
-featured: false
+featured: true
 ---
 
 Si has llegado a este post es probablemente porque estas buscando un sitio web relacionado con alguno de mis proyectos que lamentablemente ya no se encuentra activo, y este dominio ahora esta disponible para ser usado en proyectos relacionados con Software Libre o tecnolog&iacute;a.
