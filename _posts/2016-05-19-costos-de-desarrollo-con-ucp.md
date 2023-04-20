@@ -8,6 +8,7 @@ tags: [red, yellow]
 image: images/posts/freesoftwarecommunities.jpg
 description: "Costos de desarrollo con UCP"
 featured: false
+comments: true
 ---
 
 <p align="justify">
