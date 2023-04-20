@@ -3,7 +3,7 @@ layout: post
 permalink: /2023/04/machine-learning-for-license-identification.html
 title:  "Using Machine Learning for Open Source License Identification"
 author: oscar
-categories: [ oss, development, ai ]
+categories: [ oss, development, compliance ]
 tags: [ai, machinelearning, python, oss]
 image: images/posts/oslili.jpg
 description: "Using Machine Learning for Open Source License Identification"
