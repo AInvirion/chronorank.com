@@ -7,7 +7,7 @@ categories: [ development, raspberry, linux ]
 tags: [red, yellow]
 image: images/posts/raspberrypi.jpg
 description: "Optimize RPI for software development."
-featured: true
+featured: false
 comments: true
 ---
 

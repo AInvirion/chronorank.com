@@ -5,9 +5,10 @@ title:  "Using Machine Learning for Open Source License Identification"
 author: oscar
 categories: [ oss, development, ai ]
 tags: [ai, machinelearning, python, oss]
-image: images/posts/freesoftwarecommunities.jpg
+image: images/posts/oslili.jpg
 description: "Using Machine Learning for Open Source License Identification"
 featured: true
+comments: true
 ---
 
 A few days ago, I discussed with a few colleagues the different techniques for identifying Open Source Licenses using tools. While many approaches exist, most are based on regular expressions and similar methods. While using that technique is fast and straightforward, it involves a lot of maintenance due to the need to keep checking and adding new patterns to map new licenses or adjust for modified versions.
