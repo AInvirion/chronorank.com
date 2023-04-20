@@ -5,7 +5,7 @@ title:  "Cómo conseguir trabajo en USA &#8211; Parte 3: Conseguir una entrevist
 author: oscar
 categories: [ mentoring, laboral, linkedin ]
 tags: [red, yellow]
-image: images/posts/freesoftwarecommunities.jpg
+image: images/posts/remotework.jpeg
 description: "Cómo conseguir una pega en USA &#8211; Parte 3: Conseguir una entrevista"
 featured: false
 comments: true

@@ -5,7 +5,7 @@ title:  "Cómo conseguir trabajo en USA &#8211; Parte 2: La triste realidad chil
 author: oscar
 categories: [ mentoring, laboral, linkedin ]
 tags: [red, yellow]
-image: images/posts/freesoftwarecommunities.jpg
+image: images/posts/remotework.jpeg
 description: "Cómo conseguir una pega en USA &#8211; Parte 2: La triste realidad chilena"
 featured: false
 comments: true
