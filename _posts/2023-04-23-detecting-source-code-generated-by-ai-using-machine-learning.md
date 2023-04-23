@@ -22,7 +22,7 @@ Detecting AI-generated code has become challenging, and as AI technology evolves
 
 ### Plagiarism and Snippet Detection for AI could be obsolete.
 Many vendors who offer snippet detection products are trying to add AI detection features. Still, AI technology has evolved beyond generating blocks of code. Most recent versions of AI tools can understand the programming language as human writing language, making code snippet detection obsolete if they don't add AI capabilities to the detection tools and implement additional techniques.
-If plagiarism detection is obsolete, we should look at what a developer does when writing software instead of checking the code blocks. Every developer writes code differently, not because they use different structures, but because each has other preferences for the "style" of how the code is written. There are even studies around coding style preferences against the amount of money a developer makes.
+If plagiarism detection is obsolete, we should look at what a developer does when writing software instead of checking the code blocks. Every developer writes code differently, not because they use different structures, but because each has other [preferences](https://insanelab.com/blog/notes/spaces-vs-tabs/) for the "style" of how the code is written. There are even [studies](https://stackoverflow.blog/2017/06/15/developers-use-spaces-make-money-use-tabs/) around coding style preferences against the amount of money a developer makes.
 The "styles" and preferences added when the code was written together with the algorithm behind the source code could be the input for an AI detection system.
 
 ### Using Machine Learning and feature extraction to identify AI
