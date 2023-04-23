@@ -7,7 +7,7 @@ categories: [ gnuchile, multidata ]
 tags: [red, yellow]
 image: images/posts/freesoftwarecommunities.jpg
 description: "Dominios para proyectos de Software Libre."
-featured: true
+featured: false
 ---
 
 Si has llegado a este post es probablemente porque estas buscando un sitio web relacionado con alguno de mis proyectos que lamentablemente ya no se encuentra activo, y este dominio ahora esta disponible para ser usado en proyectos relacionados con Software Libre o tecnolog&iacute;a.
