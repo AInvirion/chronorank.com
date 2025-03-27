@@ -5,7 +5,7 @@ title:  "The 'keep it simple SBoM' is the perfect small first step for your orga
 author: oscar
 categories: [ oss, securty, compliance, supplychain, openchain ]
 tags: [sbom, compliance, oss, supplychain, openchain]
-image: images/posts/sbom.png
+image: images/posts/small_feet.png
 description: "The 'keep it simple SBoM' is the perfect small first step for your organization."
 featured: false
 comments: false
