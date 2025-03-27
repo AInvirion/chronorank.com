@@ -1,14 +1,14 @@
 ---
 layout: post
-permalink: /2025/03/why-most-sboms-fail-and-what-to-do-about-it.html
+permalink: /2025/02/why-most-sboms-fail-and-what-to-do-about-it.html
 title:  "Why Most SBOMs Fail and What to Do About It"
 author: oscar
-categories: [ oss, securty, compliance, supplychain, openchain ]
+categories: [ oss, security, compliance, supplychain, openchain ]
 tags: [sbom, compliance, oss, supplychain, openchain]
 image: images/posts/sbom.png
 description: "Why Most SBOMs Fail and What to Do About It"
-featured: true
-comments: true
+featured: false
+comments: false
 ---
 
 SBOM adoption is accelerating. Regulatory pressure, threats to software supply chains, and transparency demands drive widespread use. But while SBOMs are becoming standard, their quality often falls short.
