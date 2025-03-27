@@ -15,7 +15,9 @@ SBOM adoption is accelerating. Regulatory pressure, threats to software supply c
 
 Open Source License Compliance (OSLC) teams have tracked software components and licenses for years before SBOMs became mainstream, often using spreadsheets. Standardized formats like SPDX and CycloneDX promised automation and clarity, but SBOM-driven processes usually fail to deliver in practice.
 
-## The Reality: SBOMs Are Often Incomplete, Inaccurate, and Hard to Use
+
+### The Reality: SBOMs Are Often Incomplete, Inaccurate, and Hard to Use
+
 
 Despite years of standardization and significant progress around standardized structure formats, most SBOMs lack the consistency and depth needed for real-world use. They pass schema checks but fail basic usability and quality tests.
 
