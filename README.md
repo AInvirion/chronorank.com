@@ -1,4 +1,4 @@
-# ovalenzuela personal blog
+# ChronoRank.COM
 
 This is just my blog using **Jekyll** as a static site generator for GitHub ([Jekyll](https://github.com/jekyll/jekyll))
 
