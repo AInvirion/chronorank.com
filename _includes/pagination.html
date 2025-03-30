@@ -17,9 +17,9 @@
   {% endfor %}
 
   {% if paginator.next_page %}
-    <a class="ml-1 mr-1" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+    <a class="ml-1 mr-1" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Siguiente &raquo;</a>
   {% else %}
-    <span>Next &raquo;</span>
+    <span>Siguiente &raquo;</span>
   {% endif %}
 </div>
 {% endif %}
