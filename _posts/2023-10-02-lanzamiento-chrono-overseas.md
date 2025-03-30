@@ -7,7 +7,7 @@ categories: [ mentoring, laboral, linkedin ]
 tags: [red, yellow]
 image: https://raw.githubusercontent.com/AInvirion/chronorank.github.io/master/images/posts/20250330110604.png
 description: "Lanzamiento del Chrono Overseas de Vacheron Constantin"
-featured: false
+featured: true
 comments: true
 ---
 # Lanzamiento del Chrono Overseas de Vacheron Constantin
