@@ -2,7 +2,7 @@
 layout: post
 permalink: 2023/10/lanzamiento-chrono-overseas
 title:  "Lanzamiento del Chrono Overseas de Vacheron Constantin"
-author: oscar
+author: chronorank
 categories: [ mentoring, laboral, linkedin ]
 tags: [red, yellow]
 image: https://raw.githubusercontent.com/AInvirion/chronorank.github.io/master/images/posts/20250330110604.png
