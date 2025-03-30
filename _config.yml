@@ -1,7 +1,7 @@
 # Site
-name: "Oscar's Blog"
-title: "Oscar's Blog"
-description: "Free Software, GNU/Linux, License Compliance, and more."
+name: "ChronoRank :: Comunidad de Entusiastas de Relojes"
+title: "ChronoRank :: Comunidad de Entusiastas de Relojes"
+description: "Relojes, horologia, Chrono, Rolex, Tudor, Omega"
 logo: 'https://avatars3.githubusercontent.com/u/12322852?s=460&v=4'
 favicon: 'images/favico.png'
 baseurl: /
@@ -13,20 +13,21 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.ovalenzuela.com
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
   oscar:
     name: Oscar Valenzuela
     display_name: Oscar
     gravatar: e17523fd9dfc61bcdd837836bfc8fa21
     email: alkamod@gmail.com
     web: https://www.ovalenzuela.com
+    twitter: https://twitter.com/alkamodz
+    linkedin: https://www.linkedin.com/in/alkamod/
+    description: "I collect mechanical wristwatches and enjoy listening to jazz and techno music. As an open source enthusiast, I focus on legal compliance issues in the software world."
+  chronorank:
+    name: ChronoRank
+    display_name: ChronoRank Editorial
+    gravatar: e17523fd9dfc61bcdd837836bfc8fa21
+    email: alkamod@gmail.com
+    web: https://www.chronorank.com
     twitter: https://twitter.com/alkamodz
     linkedin: https://www.linkedin.com/in/alkamod/
     description: "I collect mechanical wristwatches and enjoy listening to jazz and techno music. As an open source enthusiast, I focus on legal compliance issues in the software world."
