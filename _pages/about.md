@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the author
+title: Sobre Nosotros
 permalink: /about
 comments: false
 ---
@@ -16,6 +16,9 @@ Chronorank es un blog especializado en relojes de pulsera mec&aacute;nicos, con 
 <p>
 Cada art&iacute;culo y cada imagen est&aacute;n dise&ntilde;ados para los verdaderos entusiastas de los relojes: coleccionistas, aficionados y quienes aprecian la historia, el dise&ntilde;o y la innovaci&oacute;n t&eacute;cnica que define a las mejores piezas del mercado.
 </p>
+
+  <h2>Sobre nuestro contenido</h2>
+
 
 <p>
 Desde rese&ntilde;as detalladas de modelos suizos, alemanes y japoneses, hasta listas de los mejores relojes autom&aacute;ticos, gu&iacute;as de compra, y curiosidades sobre relojes usados en la historia militar, Chronorank ofrece una experiencia informativa y moderna.
