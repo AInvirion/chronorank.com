@@ -8,22 +8,23 @@ comments: false
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 <section>
-  <h2>Welcome to my blog</h2>
-  <p>
-    I share thoughts on technology, open source, license compliance, Linux, and more. 
-    I write in Spanish and English—though Spanish is my native language, please excuse any rough edges in my English posts.
-  </p>
+  <h2>Sobre Nosotros</h2>
+<p>
+Chronorank es un blog especializado en relojes de pulsera mec&aacute;nicos, con un enfoque curado en relojes militares, relojes de lujo y dise&ntilde;os cl&aacute;sicos e ic&oacute;nicos. Nuestra pasi&oacute;n por la relojer&iacute;a se une con el poder de la inteligencia artificial para crear contenido &uacute;nico, preciso y visualmente atractivo, siempre basado en fuentes reales y confiables.
+</p>
 
-  <h3>About Me</h3>
-  <p>
-	I am an experienced Open Source Engineer with a proven track record of leadership and technical expertise. As a <strong>Principal Open Source Engineer at Amazon</strong>, I lead the license compliance team and define technical strategies for designing compliance methodologies and tools.
-  </p>
-  <p>
-	In previous roles, I served as a technical advisor to legal teams and provided technical leadership for compliance audits. Additionally, I have experience managing development teams, overseeing architectural design, and leading cross-company projects.
-  </p>
-  <p>
-	Throughout my career, I have been committed to providing technical guidance and mentorship to other engineers, ensuring best practices for software development and Open Source.
-  </p>
+<p>
+Cada art&iacute;culo y cada imagen est&aacute;n dise&ntilde;ados para los verdaderos entusiastas de los relojes: coleccionistas, aficionados y quienes aprecian la historia, el dise&ntilde;o y la innovaci&oacute;n t&eacute;cnica que define a las mejores piezas del mercado.
+</p>
+
+<p>
+Desde rese&ntilde;as detalladas de modelos suizos, alemanes y japoneses, hasta listas de los mejores relojes autom&aacute;ticos, gu&iacute;as de compra, y curiosidades sobre relojes usados en la historia militar, Chronorank ofrece una experiencia informativa y moderna.
+</p>
+
+<p>
+Impulsado por tecnolog&iacute;a, inspirado por la tradici&oacute;n: Chronorank es tu fuente de confianza para descubrir, entender y disfrutar el arte de medir el tiempo.
+</p>
+
 </section>
 </div>
 
