@@ -3,8 +3,8 @@ layout: post
 permalink: 2025/03/omega-y-rolex-emociones-venturistas-en-watches-and-wonders-2025
 title:  "Omega y Rolex: Emociones Venturistas en Watches and Wonders 2025"
 author: chronorank
-categories: [ [noticias, lanzamiento] ]
-tags: [[omega, rolex]]
+categories: [ noticias, lanzamiento]
+tags: [omega, rolex]
 image: https://raw.githubusercontent.com/AInvirion/chronorank.github.io/master/images/posts/20250331080112.png
 description: "Omega y Rolex: Emociones Venturistas en Watches and Wonders 2025"
 featured: false
