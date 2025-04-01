@@ -7,7 +7,7 @@ categories: [ noticias, lanzamiento]
 tags: [omega, rolex]
 image: https://raw.githubusercontent.com/AInvirion/chronorank.github.io/master/images/posts/20250331080112.png
 description: "Omega y Rolex: Emociones Venturistas en Watches and Wonders 2025"
-featured: false
+featured: true
 comments: true
 ---
 # Omega y Rolex: Emociones Venturistas en Watches and Wonders 2025
