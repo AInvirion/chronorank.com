@@ -3,7 +3,7 @@ layout: post
 permalink: 2025/04/novedades-en-el-mundo-de-los-relojes
 title:  "Novedades En El Mundo De Los Relojes"
 author: chronorank
-categories: [ [noticias, lanzamiento] ]
+categories: [noticias, lanzamiento]
 tags: [rolex, omega, tudor, seiko]
 image: https://raw.githubusercontent.com/AInvirion/chronorank.github.io/master/images/posts/20250410045831.png
 description: "Watch News"
