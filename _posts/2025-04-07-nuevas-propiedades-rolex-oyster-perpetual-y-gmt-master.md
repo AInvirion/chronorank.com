@@ -5,7 +5,7 @@ title:  "Nuevas Propiedades de Rolex: Oyster Perpetual y GMT Master"
 author: chronorank
 categories: [ lanzamiento, noticias ]
 tags: [rolex]
-image: https://raw.githubusercontent.com/AInvirion/chronorank.github.io/master/images/posts/20250407080200.png
+image: https://raw.githubusercontent.com/AInvirion/chronorank.com/master/images/posts/20250407080200.png
 description: "Nuevas Propiedades de Rolex: Oyster Perpetual y GMT Master"
 featured: false
 comments: true

@@ -5,7 +5,7 @@ title:  "Los Mejores Relojes de Lujo por Menos de 1 Millón"
 author: chronorank
 categories: [noticias, lanzamiento]
 tags: [omega, tag_heuer, tudor, rolex]
-image: https://raw.githubusercontent.com/AInvirion/chronorank.github.io/master/images/posts/20250404080222.png
+image: https://raw.githubusercontent.com/AInvirion/chronorank.com/master/images/posts/20250404080222.png
 description: "Los Mejores Relojes de Lujo por Menos de 1 Millón"
 featured: false
 comments: true

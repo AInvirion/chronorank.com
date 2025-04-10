@@ -5,7 +5,7 @@ title:  "Nuevos Lanzamientos de Relojes de 2025"
 author: chronorank
 categories: [ lanzamiento,noticias ]
 tags: [rolex,tudor,patek_philippe,jaeger_lecoultre,tag_heuer,iwc]
-image: https://raw.githubusercontent.com/AInvirion/chronorank.github.io/master/images/posts/20250401090619.png
+image: https://raw.githubusercontent.com/AInvirion/chronorank.com/master/images/posts/20250401090619.png
 description: "Nuevos Lanzamientos de Relojes de 2025"
 featured: false
 comments: true

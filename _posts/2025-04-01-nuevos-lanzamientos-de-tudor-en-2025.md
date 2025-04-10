@@ -5,7 +5,7 @@ title:  "Nuevos lanzamientos de Tudor en 2025"
 author: chronorank
 categories: [ lanzamiento ]
 tags: [tudor]
-image: https://raw.githubusercontent.com/AInvirion/chronorank.github.io/master/images/posts/20250402080210.png
+image: https://raw.githubusercontent.com/AInvirion/chronorank.com/master/images/posts/20250402080210.png
 description: "Nuevos lanzamientos de Tudor en 2025"
 featured: false
 comments: true

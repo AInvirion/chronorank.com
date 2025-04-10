@@ -5,7 +5,7 @@ title:  "El regreso del Tanké de Cartier"
 author: chronorank
 categories: [ lanzamiento ]
 tags: [cartier, tanke]
-image: https://raw.githubusercontent.com/AInvirion/chronorank.github.io/master/images/posts/20250404080221.png
+image: https://raw.githubusercontent.com/AInvirion/chronorank.com/master/images/posts/20250404080221.png
 description: "El regreso del Tanké de Cartier"
 featured: false
 comments: true

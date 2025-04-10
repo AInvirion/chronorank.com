@@ -5,7 +5,7 @@ title:  "El nuevo Cronógrafo Overseas de Vacheron Constantin: características 
 author: chronorank
 categories: [ lanzamiento ]
 tags: [vacheron, chrono, newrelease]
-image: https://raw.githubusercontent.com/AInvirion/chronorank.github.io/master/images/posts/20250330123950.png
+image: https://raw.githubusercontent.com/AInvirion/chronorank.com/master/images/posts/20250330123950.png
 description: "El nuevo Cronógrafo Overseas de Vacheron Constantin: características increíbles"
 featured: false
 comments: true

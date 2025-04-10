@@ -5,7 +5,7 @@ title:  "Novedades en Watches and Wonders 2025"
 author: chronorank
 categories: [ noticias, lanzamiento ]
 tags: [tudor, bulgari, grand seiko, bremont]
-image: https://raw.githubusercontent.com/AInvirion/chronorank.github.io/master/images/posts/20250402080209.png
+image: https://raw.githubusercontent.com/AInvirion/chronorank.com/master/images/posts/20250402080209.png
 description: "Novedades en Watches and Wonders 2025"
 featured: false
 comments: true

@@ -5,7 +5,7 @@ title:  "Presentación del Rolex Land Dweller"
 author: chronorank
 categories: [ lanzamiento, noticias ]
 tags: [rolex]
-image: https://raw.githubusercontent.com/AInvirion/chronorank.github.io/master/images/posts/20250403080202.png
+image: https://raw.githubusercontent.com/AInvirion/chronorank.com/master/images/posts/20250403080202.png
 description: "Presentación del Rolex Land Dweller"
 featured: false
 comments: true

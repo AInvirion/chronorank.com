@@ -5,7 +5,7 @@ title:  "El emocionante regreso del reloj Cartier Tank"
 author: chronorank
 categories: [ lanzamiento,noticias ]
 tags: [cartier,tank]
-image: https://raw.githubusercontent.com/AInvirion/chronorank.github.io/master/images/posts/20250405080129.png
+image: https://raw.githubusercontent.com/AInvirion/chronorank.com/master/images/posts/20250405080129.png
 description: "El emocionante regreso del reloj Cartier Tank"
 featured: false
 comments: true

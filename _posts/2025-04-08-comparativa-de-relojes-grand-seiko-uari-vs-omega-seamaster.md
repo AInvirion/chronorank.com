@@ -5,7 +5,7 @@ title:  "Comparativa de Relojes: Grand Seiko uari vs Omega Seamaster"
 author: chronorank
 categories: [ chrono, lanzamiento ]
 tags: [grand-seiko, omega]
-image: https://raw.githubusercontent.com/AInvirion/chronorank.github.io/master/images/posts/20250408080302.png
+image: https://raw.githubusercontent.com/AInvirion/chronorank.com/master/images/posts/20250408080302.png
 description: "Comparativa de Relojes: Grand Seiko uari vs Omega Seamaster"
 featured: false
 comments: true

@@ -5,7 +5,7 @@ title:  "¿Qué especialidad tendrían las marcas de relojes si fueran estudiant
 author: chronorank
 categories: [ noticias, lanzamiento ]
 tags: [rolex, omega, casio, tagheuer, timex, patekphilippe, hublot, audemarspiguet, breitling, tudor, jaegerlecoultre, seiko]
-image: https://raw.githubusercontent.com/AInvirion/chronorank.github.io/master/images/posts/20250331214427.png
+image: https://raw.githubusercontent.com/AInvirion/chronorank.com/master/images/posts/20250331214427.png
 description: "¿Qué especialidad tendrían las marcas de relojes si fueran estudiantes universitarios?"
 featured: false
 comments: true

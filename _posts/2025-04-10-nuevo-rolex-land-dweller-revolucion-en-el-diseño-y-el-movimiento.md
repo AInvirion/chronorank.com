@@ -5,7 +5,7 @@ title:  "El Nuevo Rolex Land Dweller: Revolución en el Diseño y el Movimiento"
 author: chronorank
 categories: [ Noticias, lanzamiento ]
 tags: [Rolex]
-image: https://raw.githubusercontent.com/AInvirion/chronorank.github.io/master/images/posts/20250410104008.png
+image: https://raw.githubusercontent.com/AInvirion/chronorank.com/master/images/posts/20250410104008.png
 description: "The New Rolex Land Dweller: Revolution in Design and Movement"
 featured: false
 comments: true

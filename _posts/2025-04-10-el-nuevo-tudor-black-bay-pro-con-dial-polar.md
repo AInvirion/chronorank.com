@@ -5,7 +5,7 @@ title:  "El nuevo Tudor Black Bay Pro con dial Polar"
 author: chronorank
 categories: [ lanzamiento, cronos, noticias ]
 tags: [Tudor, Black Bay Pro, Polar, GMT, Relojes, Watches]
-image: https://raw.githubusercontent.com/AInvirion/chronorank.github.io/master/images/posts/20250410102802.png
+image: https://raw.githubusercontent.com/AInvirion/chronorank.com/master/images/posts/20250410102802.png
 description: "The New Tudor Black Bay Pro with Polar Dial"
 featured: false
 comments: true

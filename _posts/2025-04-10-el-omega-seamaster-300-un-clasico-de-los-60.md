@@ -5,7 +5,7 @@ title:  "El Omega Seamaster 300: Un Clásico de los 60"
 author: chronorank
 categories: [ cronómetro, diver ]
 tags: [Omega, Seamaster 300]
-image: https://raw.githubusercontent.com/AInvirion/chronorank.github.io/master/images/posts/20250410102405.png
+image: https://raw.githubusercontent.com/AInvirion/chronorank.com/master/images/posts/20250410102405.png
 description: "The Omega Seamaster 300: A 60s Classic"
 featured: false
 comments: true

@@ -5,7 +5,7 @@ title:  "Revisión de la Jäger LeCoultre Reverso"
 author: chronorank
 categories: [ lanzamiento, noticias ]
 tags: [jaeger, lecoultre, reverso]
-image: https://raw.githubusercontent.com/AInvirion/chronorank.github.io/master/images/posts/20250331080113.png
+image: https://raw.githubusercontent.com/AInvirion/chronorank.com/master/images/posts/20250331080113.png
 description: "Revisión de la Jäger LeCoultre Reverso"
 featured: false
 comments: true

@@ -5,7 +5,7 @@ title:  "Relojes Recomendados para Nuevos Coleccionistas"
 author: chronorank
 categories: [ lanzamiento, noticias ]
 tags: [seiko, citizen, hamilton, baltic]
-image: https://raw.githubusercontent.com/AInvirion/chronorank.github.io/master/images/posts/20250330123949.png
+image: https://raw.githubusercontent.com/AInvirion/chronorank.com/master/images/posts/20250330123949.png
 description: "Relojes Recomendados para Nuevos Coleccionistas"
 featured: false
 comments: true

@@ -5,7 +5,7 @@ title:  "Lo que me gustaría haber comenzado con mis relojes"
 author: chronorank
 categories: [ lanzamiento, noticias ]
 tags: [seiko, omega, tudor]
-image: https://raw.githubusercontent.com/AInvirion/chronorank.github.io/master/images/posts/20250406080210.png
+image: https://raw.githubusercontent.com/AInvirion/chronorank.com/master/images/posts/20250406080210.png
 description: "Lo que me gustaría haber comenzado con mis relojes"
 featured: false
 comments: true

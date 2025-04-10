@@ -5,7 +5,7 @@ title:  "Lanzamientos Recientes de Tudor: Reflexiones de Watches and Wonders 202
 author: chronorank
 categories: [ lanzamiento ]
 tags: [tudor]
-image: https://raw.githubusercontent.com/AInvirion/chronorank.github.io/master/images/posts/20250405080128.png
+image: https://raw.githubusercontent.com/AInvirion/chronorank.com/master/images/posts/20250405080128.png
 description: "Lanzamientos Recientes de Tudor: Reflexiones de Watches and Wonders 2025"
 featured: false
 comments: true

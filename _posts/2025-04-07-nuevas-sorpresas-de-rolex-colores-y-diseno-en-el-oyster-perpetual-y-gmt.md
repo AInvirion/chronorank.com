@@ -5,7 +5,7 @@ title:  "Nuevas Sorpresas de Rolex: Colores y Diseño en el Oyster Perpetual y G
 author: chronorank
 categories: [ noticias,lanzamiento ]
 tags: [rolex]
-image: https://raw.githubusercontent.com/AInvirion/chronorank.github.io/master/images/posts/20250408080301.png
+image: https://raw.githubusercontent.com/AInvirion/chronorank.com/master/images/posts/20250408080301.png
 description: "Nuevas Sorpresas de Rolex: Colores y Diseño en el Oyster Perpetual y GMT"
 featured: false
 comments: true

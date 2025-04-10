@@ -5,7 +5,7 @@ title:  "Novedades de Rolex en Watches & Wonders 2025"
 author: chronorank
 categories: [ noticias,lanzamiento ]
 tags: [rolex]
-image: https://raw.githubusercontent.com/AInvirion/chronorank.github.io/master/images/posts/20250403080203.png
+image: https://raw.githubusercontent.com/AInvirion/chronorank.com/master/images/posts/20250403080203.png
 description: "Novedades de Rolex en Watches & Wonders 2025"
 featured: false
 comments: true
