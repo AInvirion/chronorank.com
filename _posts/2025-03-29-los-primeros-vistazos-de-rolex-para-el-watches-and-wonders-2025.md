@@ -7,7 +7,7 @@ categories: [ noticias, lanzamiento ]
 tags: [rolex]
 image: https://raw.githubusercontent.com/AInvirion/chronorank.com/master/images/posts/20250330125212.png
 description: "Los Primeros Vistazos de Rolex para el Watches and Wonders 2025"
-featured: true
+featured: false
 comments: true
 ---
 # Los Primeros Vistazos de Rolex para el Watches and Wonders 2025

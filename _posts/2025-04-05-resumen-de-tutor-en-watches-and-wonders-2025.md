@@ -7,7 +7,7 @@ categories: [ noticias, lanzamiento ]
 tags: [tudor, watchesandwonders]
 image: https://raw.githubusercontent.com/AInvirion/chronorank.com/master/images/posts/20250406080209.png
 description: "Resumen de Tutor en Watches and Wonders 2025"
-featured: true
+featured: false
 comments: true
 ---
 ## Tutor y el Watches and Wonders 2025
